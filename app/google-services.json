@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "302946129090",
+    "project_id": "up-files-d6be4",
+    "storage_bucket": "up-files-d6be4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302946129090:android:304bb2b0f2f6cc624d175b",
+        "android_client_info": {
+          "package_name": "com.example.upfiles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302946129090-2mdkhukjmohcdbmr5bjm5sjpu93aue1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXpPfmy3d9lTsap6QfMxT1OzJdQqcJ8ZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302946129090-2mdkhukjmohcdbmr5bjm5sjpu93aue1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
